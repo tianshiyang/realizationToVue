@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/tianshiyang/realizationToVue/issues"
   },
-  "homepage": "https://github.com/tianshiyang/realizationToVue#readme"
+  "homepage": "https://github.com/tianshiyang/realizationToVue#readme",
+  "type": "module"
 }
